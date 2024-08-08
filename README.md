@@ -4,7 +4,7 @@ Script de instalação do software de gerenciamento de bibliotecas Koha e suas d
 O script foi testado na versão 18.04 do Ubuntu. Em outras versões pode não funcionar.
 
 Execute o arquivo como root, ou seja:
-'''shell
+```shell
 sudo python3 install_koha
-'''
+```
 
